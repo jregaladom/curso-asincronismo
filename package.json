@@ -1,0 +1,22 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jregaladom/curso-asincronismo.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Jose Juan Regalado Moncada jregaladomoncada@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jregaladom/curso-asincronismo/issues"
+  },
+  "homepage": "https://github.com/jregaladom/curso-asincronismo#readme"
+}
