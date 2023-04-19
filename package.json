@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "callback": "node src/callback/challange.js"
   },
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/jregaladom/curso-asincronismo#readme",
   "dependencies": {
+    "node-fetch": "^3.3.1",
     "xmlhttprequest": "^1.8.0"
   }
 }
